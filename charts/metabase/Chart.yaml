@@ -4,7 +4,7 @@ description:
   and learn from data.
 name: metabase
 version: 2.26.0
-appVersion: v0.59.6.x
+appVersion: v0.60.2.x
 maintainers:
   - name: pmint93
     email: phamminhthanh69@gmail.com
